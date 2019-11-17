@@ -1,0 +1,6 @@
+azure_region        =   "westeurope"
+kubernetes_version  =   "1.14.8"
+resource_group      =   "AksCluster-RG"
+acr_name            =   "aksterraformdemo"
+keyvault_rg         =   "AksTerraform-RG"
+keyvault_name       =   "todorovkv"
